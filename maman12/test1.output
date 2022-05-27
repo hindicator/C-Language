@@ -1,0 +1,11 @@
+Hello, this program convert unbounded text length
+into styled form.
+Please enter input : (Enter 'CTRL+d' to end)
+==========================================================================================
+asdas asdas asdas asdas asdas                                                            |
+asdas asdas asdas asdas asdas                                                            |
+asdas asdas asdas asdas asdas                                                            |
+asdas asdas asdas asdas asdas                                                            |
+==========================================================================================
+Total alpha-numeric characters : 100
+Total input length : 133

@@ -1,10 +1,3 @@
-/*
-    Maman 22
-    This program is a calculator for matrices
-    Name    :   Gal Hindi
-    ID      :   318248002
-*/
-
 #include "mat.h"
 
 int main()

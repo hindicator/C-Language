@@ -1,0 +1,35 @@
+Hello, this program convert unbounded text length
+into styled form.
+Please enter input : (Enter 'CTRL+d' to end)
+==========================================================================================
+gcc -c list_ab.c -o list_ab.o -Wall -ansi -std=c90 -pedantic                             |
+gcc list_ab.o -o list_ab -Wall -ansi -std=c90 -pedantic                                  |
+rm *.o                                                                                   |
+Done ...                                                                                 |
+                                                                                         |
+gcc -c list_ab.c -o list_ab.o -Wall -ansi -std=c90 -pedantic                             |
+gcc list_ab.o -o list_ab -Wall -ansi -std=c90 -pedantic                                  |
+rm *.o                                                                                   |
+Done ...                                                                                 |
+                                                                                         |
+                                                                                         |
+gcc -c list_ab.c -o list_ab.o -Wall -ansi -std=c90 -pedantic                             |
+gcc list_ab.o -o list_ab -Wall -ansi -std=c90 -pedantic                                  |
+rm *.o                                                                                   |
+Done ...                                                                                 |
+                                                                                         |
+                                                                                         |
+gcc -c list_ab.c -o list_ab.o -Wall -ansi -std=c90 -pedantic                             |
+gcc list_ab.o -o list_ab -Wall -ansi -std=c90 -pedantic                                  |
+rm *.o                                                                                   |
+Done ...                                                                                 |
+                                                                                         |
+                                                                                         |
+gcc -c list_ab.c -o list_ab.o -Wall -ansi -std=c90 -pedantic                             |
+gcc list_ab.o -o list_ab -Wall -ansi -std=c90 -pedantic                                  |
+rm *.o                                                                                   |
+Done ...                                                                                 |
+                                                                                         |
+==========================================================================================
+Total alpha-numeric characters : 435
+Total input length : 682
