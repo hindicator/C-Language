@@ -1,9 +1,3 @@
-/*
-    Maman 23
-    Program that return AND operator between all given numbers from input.
-    Name    :   Gal Hindi
-    ID      :   318248002
-*/
 #include <stdio.h>      /* printf */
 #include <stdarg.h>     /* va_list, va_arg, va_end */
 #include <time.h>       /* srand (for random) */
