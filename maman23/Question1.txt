@@ -1,0 +1,32 @@
+Section A :
+
+Answer - Never true.
+Proof - The default starting index of an array in C Language is always zero
+and there is no way to change this.
+Note : With pointers the case is different and there is a way to configure the pointer to be an int array that starts with the index 1
+        Even though this is not recommended.
+
+
+Section B :
+
+Answer - Sometimes true and sometimes isn't true.
+Proof - With the following structe
+
+```
+struct data
+{
+    unsigned int a : 1;
+    unsigned int b : 32;
+    unsigned int c : 1;
+};
+typedef struct data data_t;
+
+data_t alldata;
+```
+
+The command :
+
+```
+printf("%ld\n", sizeof(alldata));
+```
+Output : 12

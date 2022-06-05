@@ -1,0 +1,13 @@
+gal asd asd
+saodk 123098 lasd
+lasdlasdlasdlasdlasdlasdlasd
+lasdlasdlasdlasd11 asd
+
+andgal asd asd
+saodk 123098 lasdgal asd asd
+saodk 123098 lasdgal asd asd
+saodk 123098 lasdgal asd asd
+saodk 123098 lasd.
+
+this is a long long line to make sure the program will print this line in a pretty style so edge cases will pass and i'll get an 100 :) :P :D asd gggg. still in line.
+now a new line.
