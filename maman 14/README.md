@@ -1,12 +1,5 @@
 # C-Final-Project
 
-## Student Details :
-
-- ```
-  Name:   Gal Hindi
-  ID  :   318248002
-  ```
-
 ## Project directory tree Structure :
 
 -
